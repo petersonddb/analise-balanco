@@ -1,0 +1,32 @@
+Prioridade,Departamento,Aparato,Internet?,Item Escolhido,Preço,Notas,Pagador,Acertado,,Estimativa Brastemp,Estimativa Electrolux,Estimativa Walita,Estimativa Philco
+Alta,Lavanderia,Varal,Não,Varal sanfonado de parede 1m Mor + prendedores de roupa inox,"R$ 209,70",Mercado Livre,Peterson,FALSE,,,,,
+Alta,Lavanderia,Cesto de roupa,Não,CESTO MULT UZ 55L C/T PR,"R$ 75,90",San Michel,-,FALSE,,,,,
+Alta,Cozinha,Fogão,Sim,FOGÃO 4 BOCAS ELECTROLUX PRATA AUTOMÁTICO COM MESA DE VIDRO E PORTA FULL GLASS (52LSV) BIVOLT,"R$ 1.449,00",Loja Online Electrolux,Laisa,FALSE,,"R$ 2.800,00","R$ 1.500,00",,
+Alta,Cozinha,Kit instalação fogão,Sim,Mangueira Cobre Haenke (NBR14177) + Adaptadores + veda rosca,"R$ 119,00",Mercado Livre,Peterson,TRUE,,,,,
+Alta,Cozinha,Forno,Sim,-,"R$ 0,00",Parte do fogão escolhido,-,TRUE,,,,,
+Alta,Cozinha,Micro-ondas,Sim,MICRO-ONDAS ELECTROLUX PRATA 23L EFFICIENT ME23S 127V + tampa,"R$ 755,00",Loja Online Electrolux,Laisa,FALSE,,"R$ 1.000,00","R$ 800,00",,
+Alta,Cozinha,Geladeira,Não,Geladeira/Refrigerador Frost Free Electrolux Inox 371L (DFX41) - 127V,"R$ 3.470,00",Lojas Cem,Peterson,FALSE,,"R$ 3.500,00","R$ 3.500,00",,
+Alta,Cozinha,Liquidificador,Sim,Liquidificador Philips Walita Daily Collection 2L 700w RI2113,"R$ 217,90",Mercado Livre,Peterson,FALSE,,,,"R$ 240,00","R$ 270,00"
+Alta,Cozinha,Air Fryer,Sim,Airfryer Digital Philips Walita 4L RI9252,"R$ 829,00",Mercado Livre,Peterson,FALSE,,,,"R$ 800,00","R$ 499,00"
+Alta,Cozinha,Espremedor de frutas,Sim,-,"R$ 0,00",Parte da centrifuga,-,FALSE,,,,"R$ 0,00","R$ 140,00"
+Alta,Cozinha,Jogo de panelas,Sim,"Jogo Tramontina fundo triplo, sollar inox","R$ 793,34",Amazon,Laisa,TRUE,,,,,
+Baixa,Cozinha,Boleira,Sim,Mimo style boleira bambu,"R$ 89,99",Amazon,Laisa,FALSE,,,,,
+Alta,Cozinha,Pegador/luvas,Sim,Luva de Silicone com Euro Cinza,"R$ 38,80",Amazon,Laisa,FALSE,,,,,
+Alta,Cozinha,Faqueiro,Não,-,"R$ 0,00",Presente Dianne,-,FALSE,,,,,
+Alta,Cozinha,Aparelho de Jantar,Não,-,"R$ 0,00",Presente Suzana,-,FALSE,,,,,
+Baixa,Cozinha,Bowl ,Sim,Bowl Branco Borda Bambu Natural Ceramica Scalla 8 Unidades,"R$ 150,00",Mercado Livre,Laisa,FALSE,,,,,
+Alta,Banheiro,Chuveiro Elétrico,Não,Lorenzetti Acqua Storm v220/7800w,"R$ 556,05",Casas Carneiro,Peterson,FALSE,,,,,
+Alta,Lavanderia,Vassoura ,Não,VASSOURA CANTO CONDOR,"R$ 37,90","San Michel, c/ pá",Ambos,FALSE,,,,,
+Alta,Lavanderia,Rodo,Não,RODO CONDOR DUPLO 40CM,"R$ 49,50",San Michel,Ambos,FALSE,,,,,
+Alta,Quarto,Cama de casal,Não,-,"R$ 0,00",Juntamos as duas de solteiro que já tinhamos,-,FALSE,,,,,
+Baixa,Sala de estar,Rack para tv,Não,RACK ARTERRA PALUDETTO,"R$ 598,00",Todacasa,Laisa,FALSE,,,,,
+Alta,Lavanderia,Produtos de limpeza,Não,Esponjas; Sabão; Detergente; Limp vidro; Toalha papel; Saco lixo; Alcool; Agua sanit; outros;,"R$ 300,00",San Michel,Ambos,TRUE,,,,,
+,,,,,,,,,,,,,
+,,,,Total:,"R$ 9.739,08",,,,,"R$ 7.300,00","R$ 5.800,00","R$ 1.040,00","R$ 909,00"
+,,,,,,,,,,,,,
+,,,,Acerto:,"R$ 5.282,65",,,,,,,,
+,,,,,"R$ 3.080,79",,,,,,,,
+,,,,,"R$ 8.363,44",,,,,,,,
+,,,,,"R$ 4.181,72",,,,,,,,
+,,,,,"-R$ 1.100,93",,,,,,,,
+,,,,,"R$ 1.100,93",,,,,,,,

@@ -45,7 +45,7 @@ def read_balanco_sheets(sheets, balanco_file):
                 item_escolhido=row[4],
                 preco=row[5],
                 pagador=row[7],
-                acertado=row[8]
+                acertado=True if row[8] == "TRUE" else False
             )
 
             if new_input.aparato:
@@ -91,7 +91,7 @@ def payments_correction(payments):
 
 
 m_sheets = Sheets()
-read_balanco_sheets(m_sheets, "balanco.csv")
+read_balanco_sheets(m_sheets, "amostra-balanco.csv")
 print(m_sheets)
 payments = payment_per_person(m_sheets, True)
 print(f"Pagamentos: {payments}")
